@@ -4,7 +4,7 @@ if array.length ==1
 elsif array.length == 2
   return array.join(' and ')
 else array.length === 3
-  reutrn array.join(' , ')
+  reutrn array.join(', ')
 end
 
 end
